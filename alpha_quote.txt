@@ -1,0 +1,8 @@
+Vendor: Alpha Systems
+Quantity: 100 laptops
+Unit price: ₹57,500
+Configuration: Intel Core i5-1335U, 16 GB RAM, 512 GB SSD
+Warranty: 3-year on-site warranty
+Delivery within 14 days
+GST: 18%
+Other fees: ₹0

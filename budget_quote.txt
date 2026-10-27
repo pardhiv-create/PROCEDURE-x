@@ -1,0 +1,8 @@
+Vendor: Budget Computing
+Quantity: 100 laptops
+Unit price: ₹52,500
+Configuration: Intel Core i5-1235U, 8 GB RAM, 512 GB SSD
+Warranty: 1-year carry-in warranty
+Delivery within 10 days
+GST: 18%
+Other fees: ₹0

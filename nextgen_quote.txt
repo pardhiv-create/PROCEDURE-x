@@ -1,0 +1,6 @@
+Vendor: NextGen Devices
+Quantity: 100 laptops
+Unit price: ₹59,000
+Configuration: Intel Core i7-1355U, 16 GB RAM, 512 GB SSD
+GST: 18%
+Warranty and delivery terms to be confirmed.
