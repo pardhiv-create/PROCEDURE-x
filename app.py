@@ -3,12 +3,12 @@ from datetime import datetime, timezone
 import pandas as pd
 import streamlit as st
 
-from procurex.config import get_settings
-from procurex.documents import parse_uploaded_file
-from procurex.schemas import Requirements
-from procurex.agent import ProcurementAgent
-from procurex.rules import evaluate_quote, rank_vendors
-from procurex.reporting import build_report, report_json, comparison_csv
+from procedurex.config import get_settings
+from procedurex.documents import parse_uploaded_file
+from procedurex.schemas import Requirements
+from procedurex.agent import ProcurementAgent
+from procedurex.rules import evaluate_quote, rank_vendors
+from procedurex.reporting import build_report, report_json, comparison_csv
 
 st.set_page_config(page_title="ProcureX | AI Procurement Agent", page_icon="🧾", layout="wide")
 
